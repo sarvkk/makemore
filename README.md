@@ -4,7 +4,7 @@
 
 Makemore is a project focused on building character-level language models. This project starts with a simple bigram model and progressively enhances its complexity using neural network architectures.
 
-Implementations
+### Implementations
 
 1. Bigram Character-Level Language Model
 
