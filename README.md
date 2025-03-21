@@ -1,6 +1,21 @@
+Makemore: Language Modeling
 
-**Intro to language modeling: building makemore**
-Implemented a bigram character-level language model, which will further complexify
+Introduction
 
-**Part 2: Multi Layer Perceptron**
-Implemented a multilayer perceptron (MLP) character-level language model with reference to "A Neural Probabilistic Language Model" By Yoshua Bengio et al.
+Makemore is a project focused on building character-level language models. This project starts with a simple bigram model and progressively enhances its complexity using neural network architectures.
+
+Implementations
+
+1. Bigram Character-Level Language Model
+
+Implemented a bigram-based language model that learns character transition probabilities.
+
+This serves as the foundational model to be further improved with neural networks.
+
+2. Multi-Layer Perceptron (MLP) Character-Level Language Model
+
+Implemented an MLP-based character-level language model.
+
+Referenced "A Neural Probabilistic Language Model" by Yoshua Bengio et al.
+
+Uses learned embeddings and a feedforward network to improve character prediction compared to the bigram model.
